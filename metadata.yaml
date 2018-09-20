@@ -1,0 +1,35 @@
+_repo: The-Philosophy-of-Giambattista-Vico_52814
+_version: 0.0.1
+alternative_title: La filosofia di Giambattista Vico. English
+contributor:
+  translator:
+    agent_name: Collingwood, R. G. (Robin George)
+    alias: Collingwood, Robin George
+    birthdate: 1889
+    deathdate: 1943
+    gutenberg_agent_id: '47055'
+    url: http://www.gutenberg.org/2009/agents/47055
+creator:
+  author:
+    agent_name: Croce, Benedetto
+    birthdate: 1866
+    deathdate: 1952
+    gutenberg_agent_id: '3007'
+    url: http://www.gutenberg.org/2009/agents/3007
+    wikipedia: http://en.wikipedia.org/wiki/Benedetto_Croce
+description: ''
+gutenberg_issued: '2016-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52814'
+  lccn: '14004977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vico, Giambattista, 1668-1744'
+- !lcc 'B'
+- GITenberg
+title: The Philosophy of Giambattista Vico
+url: http://www.gutenberg.org/ebooks/52814
